@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TafelBaas</string>
+    <string name="btn_continue">Volgende stap</string>
+    <string name="scan_code">Scan code</string>
+    <string name="chat_bubble_qr">On your table tannis table is a QR code code printed please find this code and click the button below to start scanning it.</string>
+    <string name="chat_bubble_registration">Hey boss, nice you are participating! Before we can continue, I would like to know your name.</string>
+    <string name="chat_bubble_add_group">In this screen you can create a new group,your colleagues can then choose to join your group to complete.</string>
+    <string name="edit_hint_ur_name">Your Name</string>
+    <string name="group_name">Group Name</string>
+    <string name="short_description">Short Description</string>
+    <string name="add_new_group">Add new group</string>
+
+
+    <string name="qr_scan_tip">Scan QR code on the table tennis table</string>
+    <string name="group_tab">Groups</string>
+    <string name="mygroup">My Group</string>
+    <string name="add_score_guys_tip_message">Please fill in the final scores of the game against in the group called:</string>
+    <string name="add_score_title">Add your score</string>
+    <string name="score_hint">Please fill in your scores from the game agains Alie walker in the group called test group.</string>
+
+    <string name="save_scores_button_title">Send scores</string>
+    <string name="oponent_score">Score of opponent</string>
+
+    <string name="overview">Overview</string>
+    <string name="challenges">My Challenges</string>
+    <string name="games">My Games</string>
+
+    <string name="total_games">Total games</string>
+    <string name="won">Won</string>
+    <string name="lost">Lost</string>
+    <string name="group">Group</string>
+    <string name="challenge_user">Challenge user</string>
+    <string name="join_group">Join Group</string>
+
+    <string name="your_name">Your Name</string>
+    <string name="your_score">Jouw score:</string>
+    <string name="read_game_rules_button_title">Read game rules</string>
+    <string name="sending_scores_success_alert_title">Sending Successfully</string>
+    <string name="sending_scores_failed_alert_title">Sending failed</string>
+    <string name="sending_scores_failed_alert_message">Failed to send scores, please check your internet connection and try again.</string>
+    <string name="add_group_name_label">Group Name</string>
+    <string name="add_group_description_label">Short Discription</string>
+    <string name="add_group_add_button_title">Create Group</string>
+    <string name="add_group_guys_tip_label">Create a new team here for you and your colleagues.</string>
+    <string name="registering_group_failed_alert_title">Error while creating group</string>
+    <string name="registering_group_failed_alert_message">Failed to create new group, please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="fail_scan">You cancelled the scanning</string>
+
+    <string name="join_group_button_title">Join group</string>
+
+    <string name="challenge_user_button_title">Challenge user</string>
+
+
+    <string name="my_challenges_opponents_name_description_label_text">Opponents name:</string>
+    <string name="my_challenges_button_add_scores_title">Add score</string>
+    <string name="my_challenges_button_cancel_challenge_title">Cancel</string>
+    <string name="my_challenges_button_accept_challenge_title">Accept</string>
+    <string name="my_challenges_button_decline_challenge_title">Decline</string>
+    <string name="my_challenges_button_waiting_on_opponent_title">Waiting on opponent</string>
+    <string name="save_score">Save Sores</string>
+    <string name="game_rule">Read the game Rules</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:text="1.Leun tijdens het spelen niet op de tafel\n\n2.Beweeg! (Rondjes rennen rond de tafel is toegestaan)\n\n3.Niet goed terugslaan is een punt voor je collega\n\n4.Speel tot iemand 11 punten heeft\n\n5.Een pot gewonnen = 1 punt\n6.Speel zo vaak je wilt\n\n7.Maak kans op prijzen!\n\n8.Ga weer fit aan het werk"
+        android:textSize="20sp" />
+
+</LinearLayout>
